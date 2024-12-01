@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WELLNEST_CONSOLEAPP", "WELLNEST_CONSOLEAPP.csproj", "{2D5620C3-E36C-4681-8472-36B5BE1E5150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5620C3-E36C-4681-8472-36B5BE1E5150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5620C3-E36C-4681-8472-36B5BE1E5150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5620C3-E36C-4681-8472-36B5BE1E5150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5620C3-E36C-4681-8472-36B5BE1E5150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FAD1FB7-7767-43E8-9308-885527A4C1D9}
+	EndGlobalSection
+EndGlobal

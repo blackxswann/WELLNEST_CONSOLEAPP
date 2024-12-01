@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WELLNEST_CONSOLEAPP.CORE_FEATURES.DateLogger">
+    <Position X="9.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CORE FEATURES\DateLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.CORE_FEATURES.EntryLogger">
+    <Position X="13.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQQAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CORE FEATURES\EntryLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.CORE_FEATURES.EntryViewer">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAiAAAQAAAAAAAAAAAAAIAAIAAAAAAAAAA=</HashCode>
+      <FileName>CORE FEATURES\EntryViewer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.CORE_FEATURES.ExerciseLogger">
+    <Position X="16" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CORE FEATURES\ExerciseLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.CORE_FEATURES.Journal">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAQAEAAAAAAAAEAACEAIAAAAAAAgAA=</HashCode>
+      <FileName>CORE FEATURES\Journal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.CORE_FEATURES.MoodLogger">
+    <Position X="13.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CORE FEATURES\MoodLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.CORE_FEATURES.SleepLogger">
+    <Position X="18.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>CORE FEATURES\SleepLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.CORE_FEATURES.WaterIntakeLogger">
+    <Position X="11.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>CORE FEATURES\WaterIntakeLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.CORE_FEATURES.WellnessOverview">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAMAAAAEAAQAEYBAAAAAAAIAQAAIAOQAQAEAgI=</HashCode>
+      <FileName>CORE FEATURES\WellnessOverview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.DISPLAY_AND_AUTHENTICATION.DisplayAndAuthentication">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAQAAEAEAAAAAQAAAAAIACQAAEAAAA=</HashCode>
+      <FileName>DISPLAY AND AUTHENTICATION\DisplayAndAuthentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.MODELS.Entry">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIgAAQEAAAAAAAAAQAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>MODELS\Entry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.MODELS.UserInformation">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAIAAAQAEAAIAAAAAAAACAQIAAAAAAAA=</HashCode>
+      <FileName>MODELS\UserInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.Program">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WELLNEST_CONSOLEAPP.FILE_HANDLING.FileHandler">
+    <Position X="18.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAQgiAAACAAEQAQEAAABBAABAggIAAAACCBAAAAEA=</HashCode>
+      <FileName>FILE HANDLING\FileHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="WELLNEST_CONSOLEAPP.CORE_FEATURES.MoodType">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAIAAAAAAAAoAAAAAAAAAAABAA=</HashCode>
+      <FileName>CORE FEATURES\MoodLogger.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WELLNEST_CONSOLEAPP.MODELS.EntryType">
+    <Position X="16.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAUAAAAAAAAEAAAAAAAAAAAABAAAAAAAAIAA=</HashCode>
+      <FileName>MODELS\Entry.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
